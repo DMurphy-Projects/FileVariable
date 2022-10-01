@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dm</groupId>
-    <artifactId>FileVariables</artifactId>
+    <artifactId>FileVariable</artifactId>
     <version>1.0</version>
 
     <properties>
